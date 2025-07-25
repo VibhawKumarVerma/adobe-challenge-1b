@@ -25,13 +25,16 @@ This project is a submission for **Challenge 1B** of the Adobe India Hackathon. 
 
 ## 📁 Project Structure
 📂 adobe-challenge-1b
-├── main.py # Python script to process PDFs and generate output
 
-├── challenge1b_input.json # Input metadata including persona, job, and document list
+├── **main.py** # Python script to process PDFs and generate output
 
-├── challenge1b_output.json # Output JSON with ranked sections and summaries
-├── pdfs/ # Folder containing all input PDFs
-└── README.md # This file
+├── **challenge1b_input.json** # Input metadata including persona, job, and document list
+
+├── **challenge1b_output.json** # Output JSON with ranked sections and summaries
+
+├── **pdfs/** # Folder containing all input PDFs
+
+└── **README.md** # This file
 
 ## ▶️ How to Run
 
@@ -52,6 +55,7 @@ This project is a submission for **Challenge 1B** of the Adobe India Hackathon. 
 
 ### 🧑‍💻 Author
 Vibhaw Kumar Verma, Shahid Mansuri, Harshit Srivastava
+
 Adobe India Hackathon 2025 Participants
 
 ### 📜 License
