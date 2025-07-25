@@ -1,0 +1,75 @@
+{
+    "metadata": {
+        "input_documents": [
+            "South of France - Cities.pdf",
+            "South of France - Cuisine.pdf",
+            "South of France - History.pdf",
+            "South of France - Restaurants and Hotels.pdf",
+            "South of France - Things to Do.pdf",
+            "South of France - Tips and Tricks.pdf",
+            "South of France - Traditions and Culture.pdf"
+        ],
+        "persona": "Travel Planner",
+        "job_to_be_done": "Plan a trip of 4 days for a group of 10 college friends.",
+        "processing_timestamp": "2025-07-21T15:15:07.382253"
+    },
+    "extracted_sections": [
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "section_title": "Wine Tours",
+            "importance_rank": 1,
+            "page_number": 7
+        },
+        {
+            "document": "South of France - Cuisine.pdf",
+            "section_title": "Famous Dishes",
+            "importance_rank": 2,
+            "page_number": 3
+        },
+        {
+            "document": "South of France - Things to Do.pdf",
+            "section_title": "Cooking Classes",
+            "importance_rank": 3,
+            "page_number": 5
+        },
+        {
+            "document": "South of France - Restaurants and Hotels.pdf",
+            "section_title": "Upscale Restaurants",
+            "importance_rank": 4,
+            "page_number": 4
+        },
+        {
+            "document": "South of France - Traditions and Culture.pdf",
+            "section_title": "Culinary Traditions",
+            "importance_rank": 5,
+            "page_number": 3
+        }
+    ],
+    "subsection_analysis": [
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "refined_text": "• Comfortable Clothing:  Wear comfortable, casual clothing suitable for walking and wine tasting.",
+            "page_number": 7
+        },
+        {
+            "document": "South of France - Cuisine.pdf",
+            "refined_text": "The South of France is home to many iconic dishes that you must try during your visit: • Bouillabaisse: A traditional fish stew from Marseille, made with various types of fish, shellfish, and a flavorful broth seasoned with saﬀron and herbs. Bouillabaisse is typically served with rouille, a garlic ky mayonnaise, and crusty bread. The dish is a celebration of the sea and is best enjoyed in a seaside restaurant with a view of the Mediterranean. • Ratatouille: A vegetable stew made with eggplant, zucchini, bell peppers, tomatoes, and onions, seasoned wit h herbs de Provence. Ratatouille can be served as a main",
+            "page_number": 3
+        },
+        {
+            "document": "South of France - Things to Do.pdf",
+            "refined_text": "• Provence : Learn to prepare traditional dishes like ratatouille and bouillabaisse. • Périgord : Join a truﬄe hunting tour followed by a cooking class. • Nice : Take a class to master Niçoise cuisine, including dishes like salade niçoise and socca. • Toulouse : Learn to cook regional specialties such as cassoulet.",
+            "page_number": 5
+        },
+        {
+            "document": "South of France - Restaurants and Hotels.pdf",
+            "refined_text": "• AM by Alexandre Mazzia  (Marseille): A two -Michelin -starred restaurant oﬀering a fine-dining experience with innovative dishes inspired by Mediterranean flavors. The artistic presentation and unique flavor combinations make it a culinary adventure. • Le Mirazur (Menton): Ranked a mong the world's best restaurants, Le Mirazur oﬀers a unique dining experience with a focus on fresh, local ingredients and innovative",
+            "page_number": 4
+        },
+        {
+            "document": "South of France - Traditions and Culture.pdf",
+            "refined_text": "Provençal Cuisine Provençal cuisine is characterized by its use of f resh, local ingredients and Mediterranean flavors. Olive oil, garlic, tomatoes, and herbs such as thyme, rosemary, and basil are staples in Provençal dishes. Some iconic dishes include ratatouille, a vegetable stew; bouillabaisse, a fish soup; and tapenade , an olive spread. Provençal cuisine reflects the region's agricultural heritage and its emphasis on simple, flavorful cooking.",
+            "page_number": 3
+        }
+    ]
+}
